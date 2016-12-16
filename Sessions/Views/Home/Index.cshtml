@@ -1,0 +1,41 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm())
+        {
+            @Session.SessionID
+            <br />
+            <label>Contador: </label>
+            if (Session["contador"] != null)
+            {
+                <label>@Session["contador"]</label>
+            }
+            <p>
+                <label>Usuario: </label>
+                @if (Session["usuario"] != null)
+                {
+                    <label>@Session["usuario"]</label>
+                    <input type="submit" name="boton" value="Cerrar Sesión" />
+                }
+                else
+                {
+                    <input type="text" name="txtNombre" />
+                    <input type="submit" name="boton" value="Entrar" />
+                }
+
+            </p>
+            <input type="submit" name="boton" value="+1" />
+        }
+    </div>
+</body>
+</html>

@@ -1,0 +1,103 @@
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\ApplicationInsights.config
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\roslyn\csc.exe
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\roslyn\vbc.exe
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\roslyn\VBCSCompiler.exe
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\RoutedParam.dll.config
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\RoutedParam.dll
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\RoutedParam.pdb
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\Microsoft.AI.Web.dll
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\System.Web.Helpers.dll
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\System.Web.Mvc.dll
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\System.Web.Razor.dll
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\System.Web.Webpages.Deployment.dll
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\System.Web.Webpages.dll
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\System.Web.Webpages.Razor.dll
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\Microsoft.AI.Web.xml
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\System.Web.Razor.xml
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\System.Web.Webpages.xml
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\System.Web.Webpages.Deployment.xml
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\System.Web.Webpages.Razor.xml
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\System.Web.Helpers.xml
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\System.Web.Mvc.xml
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\es\System.Web.Razor.resources.dll
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\es\System.Web.Webpages.resources.dll
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\es\System.Web.Helpers.resources.dll
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\bin\es\System.Web.Mvc.resources.dll
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\obj\Debug\RoutedParam.dll
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\Mantener estado en el servidor\RoutedParam\obj\Debug\RoutedParam.pdb
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\ApplicationInsights.config
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\roslyn\csc.exe
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\roslyn\System.Collections.Immutable.dll
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\roslyn\System.Reflection.Metadata.dll
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\roslyn\vbc.exe
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\roslyn\VBCSCompiler.exe
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\roslyn\VBCSCompiler.exe.config
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\RoutedParam.dll.config
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\RoutedParam.dll
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\RoutedParam.pdb
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\Microsoft.AI.DependencyCollector.dll
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\Microsoft.AI.Web.dll
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\Microsoft.AI.WindowsServer.dll
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\Microsoft.ApplicationInsights.dll
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\Microsoft.Web.Infrastructure.dll
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\System.Web.Helpers.dll
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\System.Web.Mvc.dll
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\System.Web.Razor.dll
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\System.Web.Webpages.Deployment.dll
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\System.Web.Webpages.dll
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\System.Web.Webpages.Razor.dll
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\Microsoft.AI.DependencyCollector.xml
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\Microsoft.AI.Web.xml
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\Microsoft.AI.WindowsServer.xml
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\Microsoft.ApplicationInsights.xml
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\System.Web.Razor.xml
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\System.Web.Webpages.xml
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\System.Web.Webpages.Deployment.xml
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\System.Web.Webpages.Razor.xml
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\System.Web.Helpers.xml
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\System.Web.Mvc.xml
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\es\System.Web.Razor.resources.dll
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\es\System.Web.Webpages.resources.dll
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\es\System.Web.Webpages.Deployment.resources.dll
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\es\System.Web.Webpages.Razor.resources.dll
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\es\System.Web.Helpers.resources.dll
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\bin\es\System.Web.Mvc.resources.dll
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\obj\Debug\RoutedParam.csprojResolveAssemblyReference.cache
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\obj\Debug\RoutedParam.dll
+E:\Fernando\Sistemas de gestión\Unidades\Unidad 6\Mantener estado en el servidor\RoutedParam\obj\Debug\RoutedParam.pdb
